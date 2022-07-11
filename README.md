@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **Tecnologia de maneira geral, Finanças, MMA, Música e Cinema.**
 
-- 📫 How to reach me **calilisantos@gmail.com**
+- 📫 Como me encontrar **calilisantos@gmail.com**
 
 
 
