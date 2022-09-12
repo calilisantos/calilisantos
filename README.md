@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, me chamo Calili dos Santos Silva</h1>
+<h1 align="center">Oi, sou o Calili dos Santos Silva</h1>
 <h3 align="center">Em transição de carreira de Administração para tecnologia. Apaixonado por Data Science.</h3>
 
 
@@ -9,7 +9,7 @@
 
 - 💬 Me pergunte sobre **Tecnologia de maneira geral, Finanças, MMA, Música e Cinema.**
 
-- 📫 Como me encontrar **calilisantos@gmail.com**
+
 
 
 
