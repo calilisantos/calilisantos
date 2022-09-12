@@ -34,17 +34,6 @@ Back-End | Front-End | Tests    | DevOps   | Data
 
 
 
-
-<div align="left" style="display: flex" >
-
-<img  src="https://github-readme-stats.vercel.app/api?username=calilisantos&show_icons=true&locale=en" alt="calilisantos" />
-
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=calilisantos&" alt="calilisantos" />
-
-
-</div>
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=calilisantos&label=Profile%20views&color=0e75b6&style=flat" alt="calilisantos" /> </p>
 
 <div align="center">
