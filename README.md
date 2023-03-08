@@ -4,11 +4,11 @@
 
 <h3 align="left"><strong>Sobre mim:</strong></h3>
 
-- 👨‍💻 ‍ Sou **[Administrador](https://www.escavador.com/sobre/7384448/calili-dos-santos-silva), em transição de carreira para tecnologia** e apaixonado por Data Science.
+- 👨‍💻 ‍ Sou **[Administrador](https://www.escavador.com/sobre/7384448/calili-dos-santos-silva), recentemente atuando em tecnologia** e apaixonado pela carreira de dados.
 
 - 💻 Desenvolvedor **Web Fullstack pela [Trybe](https://www.betrybe.com/)**.
 
-- 📚 Atualmente estudando **C# no ambiente .NET e Phyton por todos os lugares.**
+- 📚 Atualmente estudando **Databricks, Scala e python sempre.**
 
 - 💬 Me pergunte sobre **tecnologia de maneira geral, finanças, MMA, música e cinema.**
 
