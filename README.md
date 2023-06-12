@@ -8,7 +8,7 @@
 
 - 💻 Desenvolvedor **Web Fullstack pela [Trybe](https://www.betrybe.com/)**.
 
-- 📚 Atualmente estudando **Databricks, Scala e python sempre.**
+- 📚 Atualmente estudando **Databricks, R e Python sempre.**
 
 - 💬 Me pergunte sobre **tecnologia de maneira geral, finanças, MMA, música e cinema.**
 
